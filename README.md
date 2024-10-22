@@ -37,10 +37,8 @@ Below are some screenshots of the application in action:
 ![Inventory](img/inventory.jpg)  
 
 ### Reports and Analytics  
-![Reports](img\reports.jpg)
+![Reports](img/reports.jpg)
 
-### Alerts & Notfications 
-![Alerts & Notfications](img\alerts.jpg)
 ---
 
 ## Installation and Setup  
