@@ -28,13 +28,13 @@ A desktop application for managing inventory efficiently. The ICMS offers featur
 Below are some screenshots of the application in action: 
 
 ### Login  
-![Login](img\login.jpg)  
+![Login](img/login.jpg)  
 
 ### Dashboard  
-![Dashboard](img\Dashboard.jpg)  
+![Dashboard](img/Dashboard.jpg)  
 
 ### Inventory Management  
-![Inventory](img\inventory.jpg)  
+![Inventory](img/inventory.jpg)  
 
 ### Reports and Analytics  
 ![Reports](img\reports.jpg)
