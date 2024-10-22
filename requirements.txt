@@ -1,0 +1,7 @@
+mysql-connector-python
+python-barcode
+pyzbar
+customtkinter
+matplotlib
+CTkTable
+pywinstyles
